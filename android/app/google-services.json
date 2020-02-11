@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775864757905",
+    "firebase_url": "https://chattdnotif.firebaseio.com",
+    "project_id": "chattdnotif",
+    "storage_bucket": "chattdnotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775864757905:android:92a4fdcdfba889bd7e5930",
+        "android_client_info": {
+          "package_name": "com.chattdnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775864757905-huri7mlr3ij3ige7s29jj7af51571f20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2_98Yzxxmsx7WEzeFfFanAnlb-f9IOyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775864757905-huri7mlr3ij3ige7s29jj7af51571f20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
